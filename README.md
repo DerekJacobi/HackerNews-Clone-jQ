@@ -1,2 +1,2 @@
 # HackerNews-Clone-jQ
-A clone of the HackerNews site done using jQuery
+A clone of the HackerNews site built from scratch, using jQuery
